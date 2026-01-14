@@ -22,7 +22,6 @@
 
 <div align="center">
 
-![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
 
 </div>
 

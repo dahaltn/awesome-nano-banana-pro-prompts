@@ -19,12 +19,6 @@
 
 ## 🌐 View in Web Gallery
 
-<div align="center">
-
-![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
-
-</div>
-
 **[👉 Browse on Pixi Image Nano Banana Pro Prompts Gallery](https://awesome-nano-banana-pro-prompts.pixi-image.com)**
 
 Why use our gallery?
