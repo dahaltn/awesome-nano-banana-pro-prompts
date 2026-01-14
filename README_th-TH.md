@@ -2,15 +2,15 @@
 # 🚀 สุดยอด Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/pixi-image/awesome-nano-banana-pro-prompts?style=social)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/dahaltn/awesome-nano-banana-pro-prompts?style=social)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 คอลเลกชันคำสั่งสร้างสรรค์สำหรับ Google Nano Banana Pro
 
 
-> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิดปัญหา](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) และเราจะลบออกทันที
+> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิดปัญหา](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) และเราจะลบออกทันที
 
 ---
 
@@ -7980,7 +7980,7 @@ The gallery features:
 
 ### 🐛 GitHub Issue
 
-1. Click [**ส่งคำสั่งใหม่**](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**ส่งคำสั่งใหม่**](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
 2. กรอกแบบฟอร์มพร้อมรายละเอียดคำสั่งและรูปภาพ
 3. ส่งและรอการตรวจสอบจากทีม
 4. หากได้รับการอนุมัติ (เราจะเพิ่มป้ายกำกับ `approved`) มันจะซิงค์กับ CMS โดยอัตโนมัติ
@@ -8007,15 +8007,15 @@ The gallery features:
 
 ## ⭐ ประวัติดาว
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pixi-image/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#pixi-image/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dahaltn/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#dahaltn/awesome-nano-banana-pro-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 ดูในแกลเลอรีเว็บ](https://awesome-nano-banana-pro-prompts.pixi-image.com)** •
-**[📝 ส่งคำสั่ง](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)**
+**[📝 ส่งคำสั่ง](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)**
 
 <sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-01-14T12:23:26.309Z</sub>
 

@@ -2,15 +2,15 @@
 # 🚀 Nano Banana Pro 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/pixi-image/awesome-nano-banana-pro-prompts?style=social)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/dahaltn/awesome-nano-banana-pro-prompts?style=social)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Nano Banana Pro 创意提示词精选集合
 
 
-> ⚠️ **版权声明**：所有提示词均收集自社区，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)，我们将立即移除。
+> ⚠️ **版权声明**：所有提示词均收集自社区，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)，我们将立即移除。
 
 ---
 
@@ -7978,7 +7978,7 @@ The gallery features:
 
 ### 🐛 GitHub Issue
 
-1. Click [**提交新提示词**](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**提交新提示词**](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
 2. 填写表单，包含提示词详情和图片
 3. 提交并等待团队审核
 4. 如果通过审核（我们会添加 `approved` 标签），它将自动同步到 CMS
@@ -8005,15 +8005,15 @@ The gallery features:
 
 ## ⭐ Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pixi-image/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#pixi-image/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dahaltn/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#dahaltn/awesome-nano-banana-pro-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 在网页图库中查看](https://awesome-nano-banana-pro-prompts.pixi-image.com)** •
-**[📝 提交提示词](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ 给仓库点星](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)**
+**[📝 提交提示词](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ 给仓库点星](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)**
 
 <sub>🤖 此 README 自动生成。最后更新： 2026-01-14T12:23:11.241Z</sub>
 

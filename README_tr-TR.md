@@ -2,15 +2,15 @@
 # 🚀 Harika Nano Banana Pro İstemleri
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/pixi-image/awesome-nano-banana-pro-prompts?style=social)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/dahaltn/awesome-nano-banana-pro-prompts?style=social)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google'ın Nano Banana Pro'su için yaratıcı istemler koleksiyonu
 
 
-> ⚠️ **Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) ve derhal kaldıralım.
+> ⚠️ **Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) ve derhal kaldıralım.
 
 ---
 
@@ -7974,7 +7974,7 @@ Katkıları memnuniyetle karşılıyoruz! İstemleri şu yollarla gönderebilirs
 
 ### 🐛 GitHub Issue
 
-1. Click [**Yeni İstem Gönder**](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**Yeni İstem Gönder**](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
 2. Formu istem detayları ve görsel ile doldurun
 3. Gönderin ve ekip incelemesini bekleyin
 4. Onaylanırsa (`approved` etiketi ekleyeceğiz), otomatik olarak CMS'e senkronize edilecektir
@@ -8001,15 +8001,15 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 
 ## ⭐ Yıldız Geçmişi
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pixi-image/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#pixi-image/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dahaltn/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#dahaltn/awesome-nano-banana-pro-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 Web galerisinde görüntüle](https://awesome-nano-banana-pro-prompts.pixi-image.com)** •
-**[📝 Bir İstem Gönder](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Bu depoya yıldız verin](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)**
+**[📝 Bir İstem Gönder](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Bu depoya yıldız verin](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)**
 
 <sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-01-14T12:24:01.230Z</sub>
 

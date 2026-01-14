@@ -2,15 +2,15 @@
 # 🚀 Nano Banana Pro プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/pixi-image/awesome-nano-banana-pro-prompts?style=social)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/dahaltn/awesome-nano-banana-pro-prompts?style=social)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Nano Banana Pro のクリエイティブなプロンプトコレクション
 
 
-> ⚠️ **著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)してください。速やかに削除いたします。
+> ⚠️ **著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)してください。速やかに削除いたします。
 
 ---
 
@@ -7963,7 +7963,7 @@ The gallery features:
 
 ### 🐛 GitHub Issue
 
-1. Click [**新しいプロンプトを提出**](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**新しいプロンプトを提出**](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
 2. フォームにプロンプトの詳細と画像を記入
 3. 提出してチームのレビューを待つ
 4. 承認された場合（`approved` ラベルを追加します）、CMS に自動的に同期されます
@@ -7990,15 +7990,15 @@ The gallery features:
 
 ## ⭐ スター履歴
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pixi-image/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#pixi-image/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dahaltn/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#dahaltn/awesome-nano-banana-pro-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 Web ギャラリーで見る](https://awesome-nano-banana-pro-prompts.pixi-image.com)** •
-**[📝 プロンプトを提出](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ このリポジトリにスターを付ける](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)**
+**[📝 プロンプトを提出](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ このリポジトリにスターを付ける](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)**
 
 <sub>🤖 この README は自動生成されています。最終更新： 2026-01-14T12:23:18.853Z</sub>
 

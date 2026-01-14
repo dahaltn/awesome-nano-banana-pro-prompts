@@ -2,15 +2,15 @@
 # 🚀 Prompts Incríveis do Nano Banana Pro
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/pixi-image/awesome-nano-banana-pro-prompts?style=social)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/dahaltn/awesome-nano-banana-pro-prompts?style=social)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Uma coleção curada de prompts criativos para o Nano Banana Pro do Google
 
 
-> ⚠️ **Aviso de Direitos Autorais**: Todos os prompts são coletados da comunidade para fins educacionais. Se você acredita que algum conteúdo infringe seus direitos, por favor [abra uma issue](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) e nós o removeremos prontamente.
+> ⚠️ **Aviso de Direitos Autorais**: Todos os prompts são coletados da comunidade para fins educacionais. Se você acredita que algum conteúdo infringe seus direitos, por favor [abra uma issue](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) e nós o removeremos prontamente.
 
 ---
 
@@ -7974,7 +7974,7 @@ Acolhemos contribuições! Você pode enviar prompts através de:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Enviar novo prompt**](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**Enviar novo prompt**](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
 2. Preencha o formulário com os detalhes do prompt e a imagem
 3. Envie e aguarde a revisão da equipe
 4. Se aprovado (adicionaremos o rótulo `approved`), será sincronizado automaticamente com o CMS
@@ -8001,15 +8001,15 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## ⭐ Histórico de estrelas
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pixi-image/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#pixi-image/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dahaltn/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#dahaltn/awesome-nano-banana-pro-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 Ver na galeria web](https://awesome-nano-banana-pro-prompts.pixi-image.com)** •
-**[📝 Enviar um prompt](https://github.com/pixi-image/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Dar estrela a este repositório](https://github.com/pixi-image/awesome-nano-banana-pro-prompts)**
+**[📝 Enviar um prompt](https://github.com/dahaltn/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Dar estrela a este repositório](https://github.com/dahaltn/awesome-nano-banana-pro-prompts)**
 
 <sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-01-14T12:23:57.842Z</sub>
 
